@@ -22,7 +22,6 @@ pip install sqlalchemy click psycopg2-binary python-dotenv
 🛠 Setup Instructions
 1. Clone the repository
 git clone git@github.com:macharia80/shoe-brand-backend.git
-cd adidas-shoe-cli
 
 2. Install dependencies
 pip install -r requirements.txt
