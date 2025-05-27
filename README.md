@@ -21,7 +21,7 @@ pip install sqlalchemy click psycopg2-binary python-dotenv
 
 🛠 Setup Instructions
 1. Clone the repository
-git clone https://github.com/yourusername/adidas-shoe-cli.git 
+git clone https://github.com/macharia/adidas-shoe-cli.git 
 cd adidas-shoe-cli
 
 2. Install dependencies
